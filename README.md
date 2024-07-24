@@ -21,7 +21,10 @@ Demo
 Built with
 
   React.js
+  
   JavaScript
+
+  TMDB API
 
 Running the Project
 
